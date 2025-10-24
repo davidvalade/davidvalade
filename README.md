@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm David Valade!
 
-<!--
-**davidvalade/davidvalade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a techie, builder, and founder focused on creating practical solutions for accounting, automation, and experience design.
 
-Here are some ideas to get you started:
+- 🧠 Currently exploring ways to simplify multi-entity accounting and ERP integrations.  
+- 💡 Passionate about combining technology and design for better client experiences.  
+- ☕ Fueled by coffee, curiosity, and side projects that turn ideas into tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect
+
+- [**Personal site** – davidvalade.com](https://davidvalade.com)  
+  Thoughts, projects, and creative work.
+
+- [**Valade Services** – valadeservices.com](https://valadeservices.com)  
+  Consulting and productized services for modern accounting.
+
+---
