@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm David Valade!
 
-I’m a techie nd founder focused on creating practical solutions for accounting, automation, and experience design.
+I’m a techie and founder focused on creating practical solutions for accounting, automation, and experience design.
 
 - 🧠 Currently exploring ways to simplify multi-entity accounting and ERP integrations.  
 - 💡 All about combining technology and design for better client experiences.  
